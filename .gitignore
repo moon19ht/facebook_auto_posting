@@ -1,3 +1,6 @@
+# 환경 변수 파일 (민감한 정보)
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,0 +1,17 @@
+# 공통 의존성
+python-dotenv==1.0.0
+
+# 공식 API 방식
+facebook-sdk==3.1.0
+requests==2.31.0
+requests-toolbelt==1.0.0
+
+# Selenium 방식
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Playwright 방식
+playwright==1.40.0
+
+# 유틸리티
+colorama==0.4.6
